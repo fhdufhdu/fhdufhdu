@@ -2,8 +2,7 @@
 
 # 코딩 장인 출동! 🏅
 
-<br>
-### 백엔드 개발자 [FHDUFHDU / LUCAS]
+### 백엔드 개발자 [FHDUFHDU / LUCAS] 
 안전하고 빠르게 데이터를 전달해줄수 있는 개발자 is my idol
 
 
