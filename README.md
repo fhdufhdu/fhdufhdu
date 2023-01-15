@@ -1,4 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FHDUFHDU%20/%20LUCAS&fontSize=50&animation=fadeIn)
+<div align="right">
+    <br><br>
+    <span>📩 [fhdufhdu@gmail.com]</span><br>
+    <span>🏢 [TUNiB]</span><br>
+</div>
 
 # 코딩 장인 출동! 🏅
 
