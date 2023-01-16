@@ -35,5 +35,5 @@
 <div align="right">
     <br><br>
     <span>📩 [fhdufhdu@gmail.com]</span><br>
-    <span>🏢 [TUNiB]</span><br>
+    <span>🏢 [TUNiB Backend Engineer]</span><br>
 </div>
