@@ -5,7 +5,7 @@
 ### Backend Engineer [FHDUFHDU / LUCAS] 
 
 <br>
-현재 TUNiB의 Backend Engineer입니다!
+I’m currently working on TUNiB<br>
 Programmer that serve fast and safe is my idol
 <br>
 <br>
