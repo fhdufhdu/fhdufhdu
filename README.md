@@ -6,7 +6,7 @@
 
 <br>
 I'm currently working on TUNiB.<br>
-Programmers who are fast and secure are my idols.
+My goal is to be a programmer who delivers fast and secure services.
 <br>
 <br>
 
