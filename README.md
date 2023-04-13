@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FHDUFHDU%20/%20LUCAS&fontSize=50&animation=fadeIn)
 
-# 코딩 장인 출동! 🏅
+# masterpiece of programmer 🏅
 
-### 백엔드 개발자 [FHDUFHDU / LUCAS] 
-안전하고 빠르게 데이터를 전달해줄수 있는 개발자 is my idol
+### Backend Engineer [FHDUFHDU / LUCAS] 
+
 <br>
 현재 TUNiB의 Backend Engineer입니다!
-
+Programmer that serve fast and safe is my idol
 <br>
 <br>
 
