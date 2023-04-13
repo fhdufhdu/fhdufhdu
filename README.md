@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FHDUFHDU%20/%20LUCAS&fontSize=50&animation=fadeIn)
 
-# masterpiece of programmer 🏅
+# Masterpiece of Programmer 🏅
 
 ### Backend Engineer [FHDUFHDU / LUCAS] 
 
 <br>
-I’m currently working on TUNiB<br>
-Programmer that serve fast and safe is my idol
+I'm currently working on TUNiB.
+Programmers who are fast and secure are my idols.
 <br>
 <br>
 
