@@ -1,5 +1,5 @@
-<div align="center">
-  <br>
+<div align="left">
+  </br>
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FHDUFHDU%20/%20LUCAS&fontSize=50&animation=fadeIn)
 
@@ -7,38 +7,46 @@
 
   ### Backend Engineer [FHDUFHDU / LUCAS] 
 
-  <br>
-  현재 [튜닙](https://www.tunib.ai) 에서 일하고 있습니다.<br>
-  빠르고 안전하게 서비스를 제공하는 것을 목표로 삼고 있습니다.<br>
+  현재 [TUNiB](https://www.tunib.ai) 에서 일하고 있습니다.</br>
+  빠르고 안전하게 서비스를 제공하는 것을 목표로 삼고 있습니다.</br>
   다른 사람들과 서로 알고 있는 것을 나누며 지식을 쌓아가는 것을 좋아합니다
-  <br>
-  <br>
+  </br>
+  </br>
 
 
   # 🖥️ STACKS
 
-  <div> 
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <br> 
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  </div>
+  ## Language
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ## Framework
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+  ## Infra
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+    * VPC
+    * EC2
+    * Lambda
+    * Route53
+    * ...
+  ## Version Control
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
-  <br>
-  <br>
+  </br>
+  </br>
 
   # 📈 STATS
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fhdufhdu)](https://solved.ac/fhdufhdu/) <br></br>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fhdufhdu)](https://solved.ac/fhdufhdu/) </br>
   ![fhdufhdu's GitHub stats](https://github-readme-stats.vercel.app/api?username=fhdufhdu&show_icons=true&theme=radical)
 
   <div align="right">
-      <br><br>
-      <span>📩 [fhdufhdu@gmail.com]</span><br>
-      <span>🏢 [TUNiB Backend Engineer]</span><br>
+      </br>
+      </br>
+      <span>📩 [fhdufhdu@gmail.com]</span></br>
+      <span>🏢 [TUNiB Backend Engineer]</span></br>
   </div>
 </div>
