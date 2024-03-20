@@ -42,7 +42,7 @@
 
   # 📈 STATS
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fhdufhdu)](https://solved.ac/fhdufhdu/) </br>
-  ![image](https://github.com/fhdufhdu/fhdufhdu/assets/32770312/f0993d95-8b35-4d18-a8d8-dcbdf7273eb7) </br>
+  <img width="281" alt="image" src="https://github.com/fhdufhdu/fhdufhdu/assets/32770312/8dfbf0db-e529-4f36-b453-474ae81db3d5"></br>
   ![fhdufhdu's GitHub stats](https://github-readme-stats.vercel.app/api?username=fhdufhdu&show_icons=true&theme=radical)
 
   <div align="right">
