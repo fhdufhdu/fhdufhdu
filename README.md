@@ -1,13 +1,12 @@
 <div align="left">
   </br>
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FHDUFHDU%20/%20LUCAS&fontSize=50&animation=fadeIn)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FHDUFHDU&fontSize=50&animation=fadeIn)
 
   # 조우성 🏅
 
-  ### Backend Engineer [FHDUFHDU / LUCAS] 
+  ### Backend Engineer [FHDUFHDU] 
 
-  현재 [TUNiB](https://www.tunib.ai) 에서 일하고 있습니다.</br>
   빠르고 안전하게 서비스를 제공하는 것을 목표로 삼고 있습니다.</br>
   다른 사람들과 서로 알고 있는 것을 나누며 지식을 쌓아가는 것을 좋아합니다 </br>
   요즘에는 동시성 프로그래밍에 관심이 많습니다. 안전하게 대용량 트래픽 처리를 하는 것이 목표입니다.
@@ -49,6 +48,5 @@
       </br>
       </br>
       <span>📩 [fhdufhdu@gmail.com]</span></br>
-      <span>🏢 [TUNiB Backend Engineer]</span></br>
   </div>
 </div>
