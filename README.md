@@ -1,8 +1,20 @@
 <div align="left">
   </br>
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FHDUFHDU&fontSize=50&animation=fadeIn)
-  [![My GitFut card](https://gitfut.com/fhdufhdu.png)](https://gitfut.com/fhdufhdu)
+  <div align="center">
+    <img
+      src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FHDUFHDU&fontSize=50&animation=fadeIn"
+      alt="header"
+      width="65%"
+    />
+    <a href="https://gitfut.com/fhdufhdu">
+      <img
+        src="https://gitfut.com/fhdufhdu.png"
+        alt="My GitFut card"
+        width="30%"
+      />
+    </a>
+  </div>
   
   # 조우성 🏅
 
