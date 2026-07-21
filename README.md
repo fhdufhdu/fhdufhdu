@@ -2,7 +2,8 @@
   </br>
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FHDUFHDU&fontSize=50&animation=fadeIn)
-
+  [![My GitFut card](https://gitfut.com/fhdufhdu.png)](https://gitfut.com/fhdufhdu)
+  
   # 조우성 🏅
 
   ### Backend Engineer [FHDUFHDU] 
