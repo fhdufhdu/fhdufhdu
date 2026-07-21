@@ -5,13 +5,13 @@
     <img
       src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FHDUFHDU&fontSize=50&animation=fadeIn"
       alt="header"
-      width="85%"
+      width="75%"
     />
     <a href="https://gitfut.com/fhdufhdu">
       <img
         src="https://gitfut.com/fhdufhdu.png"
         alt="My GitFut card"
-        width="10%"
+        width="20%"
       />
     </a>
   </div>
